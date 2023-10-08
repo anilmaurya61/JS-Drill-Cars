@@ -7,4 +7,4 @@ function findCarById(invetory,id){
     return null;
 }
 
-module.export = findCarById;
+export default findCarById;
